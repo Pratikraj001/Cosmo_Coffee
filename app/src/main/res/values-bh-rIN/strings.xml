@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coffee App</string>
+    <string name="Quantity_No" translatable="false">kitna hai saman hua</string>
+    <string name="Oder_Summary">Hisab Baataiye</string>
+    <string name="your_name">nam batawa na</string>
+    <string name="toppings">Topingiya</string>
+    <string name="your_email">"Kripya Email bataeai "</string>
+</resources>

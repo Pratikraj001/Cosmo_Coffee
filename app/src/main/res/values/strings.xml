@@ -1,0 +1,31 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Cosmo Coffee</string>
+    <string name="Quantity" translatable="false">Quantity</string>
+    <string name="Quantity_No">0</string>
+    <string name="Button1" translatable="false">Order</string>
+    
+    <string name="Oder_Summary">Order Summary</string>
+    <string name="PriceOfQuantity" translatable="false">₹ 0</string>
+    
+    <string name="plus" translatable="false">+</string>
+    <string name="minus" translatable="false">-</string>
+
+
+    <string name="toppings">Toppings</string>
+    
+    <string name="Pratik" translatable="false">Pratik</string>
+    <string name="your_name">Your Name Please</string>
+    <string name="your_email">Your Email Please</string>
+    <!--
+     Name for the order summary. It will be soon in the format of "Name: Raj"
+     where Raj is the user,s name .[CHAR LIMIT = NONE]
+     -->
+    <string name="oder_Summary_name" translatable="false">Name: <xliff:g id ="name" example = "Raj">%s</xliff:g></string>
+
+    
+    <string-array name="address">
+        <item>rpratik617@gmail.com</item>
+        <item>kartikeysingh4474@gmail.com</item>
+    </string-array>
+    
+</resources>

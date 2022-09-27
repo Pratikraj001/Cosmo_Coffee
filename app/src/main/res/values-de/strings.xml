@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coffee App</string>
+    <string name="Quantity_No">1</string>
+    <string name="Oder_Summary">Order Summary German</string>
+    <string name="your_name">Name German</string>
+    <string name="toppings">Toppingssss</string>
+    <string name="your_email">" Ihre E-Mail bitte"</string>
+</resources>
